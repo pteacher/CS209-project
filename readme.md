@@ -8,11 +8,11 @@ Done with love.
 * John Carmack
 * Samuel Johnson
 
-!["Drawing"]("Images/drawing.png")
+!["Drawing"](Images/drawing.png)
 
-!["Schematic is here"]("Images/heart_bb.png")
+!["Schematic is here"](Images/heart_bb.png)
 
-!["PCB"]("Images/heart_pcb_2.png")
+!["PCB"](Images/heart_pcb_2.png)
 
 [Project at Thingverse](https://www.thingiverse.com/thing:44579)
 
